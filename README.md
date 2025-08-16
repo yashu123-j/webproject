@@ -5,6 +5,7 @@ A simple, interactive web-based Tic-Tac-Toe game built with HTML, CSS, and JavaS
 This is a classic two-player Tic-Tac-Toe game. The interface is clean and intuitive, and the game logic includes win/draw detection and instant board resets.
 
 🔗 Live Demo
+https://tic-tac-toe-4lms.vercel.app/
 👉 Play the Game Now 👈
 
 ✨ Features
@@ -51,6 +52,7 @@ JavaScript (Vanilla) – Logic and interactivity
 🙋‍♂️ Author
 Rani yeshashwini
 🌐 GitHub Profile
+ https://github.com/yashu123-j
 
 Enjoy playing! Contributions and suggestions are always welcome. 🎉
 
